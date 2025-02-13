@@ -1,5 +1,5 @@
 # Fairy-TOPCPU
-We begin as wanderers
+We begin as wanderers\n
 And we are wanderers still
 No barriers to our progress
 Except those in themselves
